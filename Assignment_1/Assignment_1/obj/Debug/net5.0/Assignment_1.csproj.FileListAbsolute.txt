@@ -1,0 +1,16 @@
+D:\Assignments\CSharp_Assignment-1\Assignment_1\Assignment_1\bin\Debug\net5.0\Assignment_1.exe
+D:\Assignments\CSharp_Assignment-1\Assignment_1\Assignment_1\bin\Debug\net5.0\Assignment_1.deps.json
+D:\Assignments\CSharp_Assignment-1\Assignment_1\Assignment_1\bin\Debug\net5.0\Assignment_1.runtimeconfig.json
+D:\Assignments\CSharp_Assignment-1\Assignment_1\Assignment_1\bin\Debug\net5.0\Assignment_1.runtimeconfig.dev.json
+D:\Assignments\CSharp_Assignment-1\Assignment_1\Assignment_1\bin\Debug\net5.0\Assignment_1.dll
+D:\Assignments\CSharp_Assignment-1\Assignment_1\Assignment_1\bin\Debug\net5.0\ref\Assignment_1.dll
+D:\Assignments\CSharp_Assignment-1\Assignment_1\Assignment_1\bin\Debug\net5.0\Assignment_1.pdb
+D:\Assignments\CSharp_Assignment-1\Assignment_1\Assignment_1\obj\Debug\net5.0\Assignment_1.csproj.AssemblyReference.cache
+D:\Assignments\CSharp_Assignment-1\Assignment_1\Assignment_1\obj\Debug\net5.0\Assignment_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignments\CSharp_Assignment-1\Assignment_1\Assignment_1\obj\Debug\net5.0\Assignment_1.AssemblyInfoInputs.cache
+D:\Assignments\CSharp_Assignment-1\Assignment_1\Assignment_1\obj\Debug\net5.0\Assignment_1.AssemblyInfo.cs
+D:\Assignments\CSharp_Assignment-1\Assignment_1\Assignment_1\obj\Debug\net5.0\Assignment_1.csproj.CoreCompileInputs.cache
+D:\Assignments\CSharp_Assignment-1\Assignment_1\Assignment_1\obj\Debug\net5.0\Assignment_1.dll
+D:\Assignments\CSharp_Assignment-1\Assignment_1\Assignment_1\obj\Debug\net5.0\ref\Assignment_1.dll
+D:\Assignments\CSharp_Assignment-1\Assignment_1\Assignment_1\obj\Debug\net5.0\Assignment_1.pdb
+D:\Assignments\CSharp_Assignment-1\Assignment_1\Assignment_1\obj\Debug\net5.0\Assignment_1.genruntimeconfig.cache
