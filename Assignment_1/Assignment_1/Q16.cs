@@ -1,4 +1,5 @@
 using System;
+using System.Linq;
 
 namespace Assignment_1
 {
@@ -6,7 +7,8 @@ namespace Assignment_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Enter the word");
+            Console.WriteLine(new String(Console.ReadLine().Reverse().ToArray()));
         }
     }
 }

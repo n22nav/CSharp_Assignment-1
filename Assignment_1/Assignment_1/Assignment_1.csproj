@@ -4,7 +4,7 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
 	  <RootNamespace>Assignment_1</RootNamespace>
-	  <StartupObject>Assignment_1.Q12</StartupObject>
+	  <StartupObject>Assignment_1.Q18</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
